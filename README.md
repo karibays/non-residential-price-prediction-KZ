@@ -82,6 +82,5 @@ Future Improvements
 Author
 ------
 Sanzhar Karibay
-Email: your.email@example.com
-LinkedIn: https://linkedin.com/in/yourprofile
-GitHub: https://github.com/yourusername
+- Email: karibay.02@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sanzhar-karibay/
